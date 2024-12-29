@@ -1,6 +1,6 @@
 # meeting_planner
 
-Projek Mobile App, Aplikasi Meeting Planner untuk PT. XYZ
+Projek Mobile App, Aplikasi Meeting Planner
 
 ## Getting Started
 
