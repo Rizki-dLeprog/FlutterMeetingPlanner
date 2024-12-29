@@ -1,4 +1,4 @@
-# bts_meeting_planner
+# meeting_planner
 
 Projek Mobile App, Aplikasi Meeting Planner untuk PT. XYZ
 
